@@ -2,7 +2,7 @@
 #include "mpi.h"
 #include <stdlib.h>
 #include <time.h>
-const int n = 3000;
+const int n = 5000;
 //generate random marks from 50 to 100
 void give_me_random(int* marks){
 	int i;
@@ -126,7 +126,7 @@ void bubble_sort_parallel(int* marks, int rnk, int size){
 	printf("It needed %f miliseconds \n", elapsed);
 } 
 int main(int argc, char* argv[]){
-	int rnk, size = 3000;
+	int rnk, size = 5000;
 	int marks[n];
 	int marks1[n];
   	MPI_Init(&argc, &argv);
