@@ -1,4 +1,4 @@
-<h1><strong>MCA project by <br /></strong></h1>
+<h1><strong>MCA Project  <br /></strong></h1>
 Akash Hegde     - 1MS18CS013 <br />
 Amith HB        - 1MS18CS017<br />
 Anup vernekar   - 1MS18CS021<br />
