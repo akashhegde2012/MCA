@@ -1,10 +1,10 @@
-MCA project by
-Akash Hegde     - 1MS18CS013
-Amith HB        - 1MS18CS017
-Anup vernekar   - 1MS18CS021
-D Sanath Kumar  - 1MS18CS037
+MCA project by <br />
+Akash Hegde     - 1MS18CS013 <br />
+Amith HB        - 1MS18CS017<br />
+Anup vernekar   - 1MS18CS021<br />
+D Sanath Kumar  - 1MS18CS037<br />
 
-Program to compare sequential and parallel performances of bubble sort used in sorting student marks 
+Program to compare sequential and parallel performances of bubble sort used in sorting student marks <br />
 | n | Parallel | Sequential |
 | ---- | ----- | ----- |
 | 100 | 0.033 | 0.051 |
