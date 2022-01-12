@@ -4,7 +4,7 @@ Amith HB        - 1MS18CS017<br />
 Anup vernekar   - 1MS18CS021<br />
 D Sanath Kumar  - 1MS18CS037<br />
 
-Program to compare sequential and parallel performances of bubble sort used in sorting student marks <br />
+Program to compare sequential and parallel performances of bubble sort used in sorting student marks in milliseconds <br />
 | n | Parallel | Sequential |
 | ---- | ----- | ----- |
 | 100 | 0.033 | 0.051 |
