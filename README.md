@@ -14,3 +14,5 @@ Program to compare sequential and parallel performances of bubble sort used in s
 | 3000 | 1.024 | 33.520 |
 | 4000 | 1.598 | 39.087 |
 | 5000 | 2.387 | 52.705 |
+The graph
+<img src="./graph.jpeg"/>
